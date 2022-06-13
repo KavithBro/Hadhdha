@@ -1,0 +1,48 @@
+{
+    "token": "GET from: https://discord.com/developers/applications",
+    "prefix": ";",
+    "ownerIDS": [
+        "898246402684125184","876736266115375104"
+    ],
+    "fnbr": "GET from: https://fnbr.co",
+    "fortnitetracker": "GET from: https://fortnitetracker.com",
+    "memer_api": "9wiEytKskEG",
+    "status": {
+        "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
+        "text2": "By Kavith#0001",
+        "type": "PLAYING",
+        "url": "https://twitch.tv/milratodiscordbot"
+    },
+    "clientsettings": {
+        "nodes": [
+            {
+                "host": "dislavalink.gq",
+                "port": 2760,
+                "password": "gemzandmj"
+            }
+        ]
+    },
+    "spotify": {
+        "clientSecret": "45507d72a5294ea199785a1dd5751e0f",
+        "clientID": "56a4766917d64f3c9b7795164a8d2709"
+    },
+    "settings": {
+        "COMMENT": "time_delay 0 === insta leave",
+        "leaveOnEmpty_Channel": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "LeaveOnEmpty_Queue": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "selfDeaf": true
+    },
+    "lyricssettings": {
+        "lyrics_finder": true,
+        "ksoft_api": {
+            "use_this_instead": true,
+            "api_key": "DISABLED"
+        }
+    }
+}
